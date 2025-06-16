@@ -1,13 +1,9 @@
 import './Hero.css';
 import { Link } from 'react-router-dom';
 
-
 function Hero() {
-
-   
   return (
     <div>
-    
       <div className="hero-container">
         <h1 className="hero-title">Projects</h1>
       </div>
@@ -73,7 +69,6 @@ function Hero() {
         </div>
       </div>
 
-      
       <div className="hero-container-about">
         <h1 className="hero-title">Sobre Mim</h1>
       </div>
@@ -94,7 +89,6 @@ function Hero() {
         </ul>
       </div>
 
-     
       <div className='ul-margin'>
         <ul className='d-flex jc-space-between ul-about'>
           <li className='li-about d-flex'>
@@ -135,7 +129,6 @@ function Hero() {
         </ul>
       </div>
 
-     
       <div className='d-flex jc-center'>
         <div className='d-flex about-experiences-margin'>
           <div><img className='img-line2' src="/line2.svg" alt="line"/></div>
@@ -187,18 +180,8 @@ function Hero() {
           </div>
         </div>
       </div> 
-
-
-
-
     </div>
-
-    
-
-    
   );
-
-  
 }
 
 export default Hero;
