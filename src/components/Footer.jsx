@@ -13,13 +13,14 @@ function Footer() {
        
 
         <div className="img-footer" >
-            <img className="img-footer-margin" src="/public/figma.svg"/>
-            <img className="img-footer-margin" src="/public/linkedin.svg"/>
-            <img className="img-footer-margin" src="/public/instagram.svg"/>
-            <img className="img-footer-margin" src="/public/github.svg"/>
-            <img className="img-footer-margin" src="/public/dribbble.svg"/>
-            <img className="img-footer-margin" src="/public/youtube.svg"/>
-            <img className="img-footer-margin" src="/public/dribbble.svg"/>
+          <img className="img-footer-margin" src="/figma.svg" />
+            <img className="img-footer-margin" src="/linkedin.svg" />
+            <img className="img-footer-margin" src="/instagram.svg" />
+            <img className="img-footer-margin" src="/github.svg" />
+            <img className="img-footer-margin" src="/dribbble.svg" />
+            <img className="img-footer-margin" src="/youtube.svg" />
+            <img className="img-footer-margin" src="/dribbble.svg" />
+
         </div>
         </footer>
         
