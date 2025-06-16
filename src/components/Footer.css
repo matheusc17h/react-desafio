@@ -1,0 +1,36 @@
+
+ 
+ 
+ /* FOOTER */
+
+  .footer-title {
+    font-family: 'Manrope' , sans-serif;
+    font-weight: 800px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.img-footer{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img-footer-margin {
+   margin: 20px;
+}
+
+ header ul, li {
+    text-decoration: none;
+ }
+ 
+ 
+  nav a {
+
+    color: #1d1d1d;
+ }

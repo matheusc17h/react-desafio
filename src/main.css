@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Jost:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Jost:ital,wght@0,100..900;1,100..900&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+/* DotGothic16 */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DotGothic16&family=Jost:ital,wght@0,100..900;1,100..900&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+/* Manrope */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DotGothic16&family=Jost:ital,wght@0,100..900;1,100..900&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+/* GRID */
+
+ .container {
+   box-sizing: border-box;
+
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1140px;
+    position: relative;
+    padding: 0 30px;
+ }
+
+ .al-center {
+
+    align-items: center;
+ }
+
+
+ .al-end {
+
+    align-items: end;
+ }
+
+ .d-flex {
+
+    display: flex;
+ }
+
+ .fd-column {
+
+    flex-direction: column;
+ }
+
+ .full-screen {
+ width: 100%; 
+}
+
+ .jc-center {
+
+    justify-content: center;
+ }
+
+ .jc-end {
+
+    justify-content: end;
+ }
+
+ .jc-space-between {
+    justify-content: space-between;
+ }
+
+ .text-align {
+   text-align: center;
+ }
+
+ .logo {
+    margin-left: 30px;
+    width: 79px;
+    height: 49px;
+ }
+
+
+
+
+ 
+
+ header{ 
+    width: 100%;
+ }
+
+ .m-left{
+   margin-left: 437px;
+   padding-top: 150px;
+   font-family: 'DotGothic16' , sans-serif;
+ }
+
+ .m-top{
+   margin-top: 100px;
+ }
+
+ /* FOOTER */
+
+  .footer-title {
+    font-family: 'Manrope' , sans-serif;
+    font-weight: 800px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.img-footer{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img-footer-margin {
+   margin: 20px;
+}
+
+ header ul, li {
+    text-decoration: none;
+ }
+ 
+ 
+  nav a {
+
+    color: #1d1d1d;
+ }
+
+
+ .secondary {
+    color: #1d1d1d;
+ }
+
+
+
+
+
+
+

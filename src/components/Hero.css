@@ -1,0 +1,146 @@
+.hero-container {
+  display: flex;
+  justify-content: flex-end;
+  margin: 30px;
+}
+
+.hero-container-about {
+  display: flex;
+  justify-content: flex-start; 
+  padding: 20px;
+}
+
+.hero-title {
+  display: inline-block;
+  border-bottom: 3px solid black;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px; 
+}
+
+.hero-margin{
+    gap: 60px;
+    margin-left: 50px;
+    margin-right: 15px;
+    margin-top: 30px;
+    
+}
+
+.projects-title{
+    font-weight: 800px;
+    font-size: 20px;
+}
+
+.p-projects{
+    color: #808080;
+}
+
+.info-about {
+  margin-left: 400px
+}
+
+.about-title{
+   
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.about-p{
+    font-size: 14px;
+  font-weight: 400;
+  
+  color: #808080;
+}
+
+.list-about {
+  list-style: none;
+  padding: 0px;
+ 
+}
+
+.social-media {
+ padding-right: 5px;
+  font-size: 14px;
+  font-weight: 400;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.ul-margin {
+  margin-top: 50px;
+}
+
+.ul-about {
+  list-style: none;
+  font-size: 16px;
+  font-weight: 800;
+ 
+}
+
+.img-about {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.img-line {
+ margin-right: 10px;
+ margin-top: 10px;
+}
+
+.li-about {
+   padding: 20px;
+   
+}
+
+.h1-about{
+  font-size: 16px;
+  font-weight: 800px;
+  font-family: 'Manrope', sans-serif;
+  margin-bottom: 10px;
+ 
+}
+
+.p-about{
+  font-size: 10px;
+  font-weight: 300px;
+   font-family: 'Manrope', sans-serif;
+   color: #808080;
+}
+
+.about-experiences-margin {
+  margin-right: 60px;
+}
+
+.about-experiences-title{
+
+  font-size: 16px;
+   font-family: 'Manrope', sans-serif;
+   font-weight: 800px;
+}
+
+.about-experiences-p{
+
+  font-size: 14px;
+   font-family: 'Manrope', sans-serif;
+   font-weight: 300px;
+  color: #808080;
+
+}
+
+.img-line2{
+  margin-right: 20px;
+  height: 210px;
+}
+
+.img-project{
+  width: 233px;
+  height: 233px;
+}
+
+
+.d-flex-react{
+  display: flex;
+  margin-right: 40px;
+}
+
