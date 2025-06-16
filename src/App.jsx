@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route,Routes, Link } from 'react-router-dom'
 
 
 //Pages
-import Home from './pages/HOME'
+import Home from './pages/Home'
 import Projects from './pages/Projects'
 import Contact from './pages/Contact'
 import About from './pages/About'
