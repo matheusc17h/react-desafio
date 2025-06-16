@@ -14,7 +14,7 @@ function Hero() {
 
       <div className='d-flex hero-margin'>
         <div className='d-flex'>
-          <img className='img-project' src="/public/banner-project.svg" alt="HTML Project" />
+          <img className='img-project' src="/banner-project.svg" alt="HTML Project" />
           <div className='hero-margin'>
             <h2>HTML</h2>
             <p className='p-projects'>
@@ -27,7 +27,7 @@ function Hero() {
         </div>
 
         <div className='d-flex'>
-          <img className='img-project' src="/public/banner-project.svg" alt="HTML & CSS Project" />
+          <img className='img-project' src="/banner-project.svg" alt="HTML & CSS Project" />
           <div className='hero-margin'>
             <h2>HTML & CSS</h2>
             <p className='p-projects'>
@@ -43,7 +43,7 @@ function Hero() {
 
       <div className='d-flex hero-margin'>
         <div className='d-flex'>
-          <img className='img-project' src="/public/banner-project.svg" alt="JavaScript Project" />
+          <img className='img-project' src="/banner-project.svg" alt="JavaScript Project" />
           <div className='hero-margin'>
             <h2>JavaScript</h2>
             <p className='p-projects'>
@@ -59,7 +59,7 @@ function Hero() {
         </div>
 
         <div className='d-flex-react'>
-          <img className='img-project' src="/public/banner-project.svg" alt="React Project" />
+          <img className='img-project' src="/banner-project.svg" alt="React Project" />
           <div className='hero-margin'>
             <h2>React</h2>
             <p className='p-projects'>
@@ -98,8 +98,8 @@ function Hero() {
       <div className='ul-margin'>
         <ul className='d-flex jc-space-between ul-about'>
           <li className='li-about d-flex'>
-            <div><img className='img-about' src="/public/interface.svg" alt="Interface & Design"/></div>
-            <div><img className='img-line' src="/public/line.svg" alt="line"/></div>
+            <div><img className='img-about' src="/interface.svg" alt="Interface & Design"/></div>
+            <div><img className='img-line' src="/line.svg" alt="line"/></div>
             <div>
               <h1 className='h1-about'>Interface & Design</h1>
               <p className='p-about'>Briefing, wireframe, UX, UI and branding.</p>
@@ -107,8 +107,8 @@ function Hero() {
           </li>
 
           <li className='li-about d-flex'>
-            <div><img className='img-about' src="/public/html.svg" alt="HTML & CSS"/></div>
-            <div><img className='img-line' src="/public/line.svg" alt="line"/></div>
+            <div><img className='img-about' src="/html.svg" alt="HTML & CSS"/></div>
+            <div><img className='img-line' src="/line.svg" alt="line"/></div>
             <div>
               <h1 className='h1-about'>HTML & CSS</h1>
               <p className='p-about'>Responsive websites with fast loading.</p>
@@ -116,8 +116,8 @@ function Hero() {
           </li>
 
           <li className='li-about d-flex'>
-            <div><img className='img-about' src="/public/react.svg" alt="React.js"/></div>
-            <div><img className='img-line' src="/public/line.svg" alt="line"/></div>
+            <div><img className='img-about' src="/react.svg" alt="React.js"/></div>
+            <div><img className='img-line' src="/line.svg" alt="line"/></div>
             <div>
               <h1 className='h1-about'>React.js</h1>
               <p className='p-about'>Build your system with node.js.</p>
@@ -125,8 +125,8 @@ function Hero() {
           </li>
 
           <li className='li-about d-flex'>
-            <div><img className='img-about' src="/public/word.svg" alt="WordPress"/></div>
-            <div><img className='img-line' src="/public/line.svg" alt="line"/></div>
+            <div><img className='img-about' src="/word.svg" alt="WordPress"/></div>
+            <div><img className='img-line' src="/line.svg" alt="line"/></div>
             <div>
               <h1 className='h1-about'>WordPress</h1>
               <p className='p-about'>Create your e-commerce or blog with PHP.</p>
@@ -138,7 +138,7 @@ function Hero() {
      
       <div className='d-flex jc-center'>
         <div className='d-flex about-experiences-margin'>
-          <div><img className='img-line2' src="/public/line2.svg" alt="line"/></div>
+          <div><img className='img-line2' src="/line2.svg" alt="line"/></div>
           <div>
             <h1 className='about-experiences-title'>I've had experiences with</h1>
             <p className='about-experiences-p'>
@@ -155,7 +155,7 @@ function Hero() {
         </div>
 
         <div className='d-flex about-experiences-margin'>
-          <div><img className='img-line2' src="/public/line2.svg" alt="line"/></div>
+          <div><img className='img-line2' src="/line2.svg" alt="line"/></div>
           <div>
             <h1 className='about-experiences-title'>I have years of experience with</h1>
             <p className='about-experiences-p'>
@@ -172,7 +172,7 @@ function Hero() {
         </div>
 
         <div className='d-flex about-experiences-margin'>
-          <div><img className='img-line2' src="/public/line2.svg" alt="line"/></div>
+          <div><img className='img-line2' src="/line2.svg" alt="line"/></div>
           <div>
             <h1 className='about-experiences-title'>I work and study about</h1>
             <p className='about-experiences-p'>
